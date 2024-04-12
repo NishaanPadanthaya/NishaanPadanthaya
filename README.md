@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NishaanPadanthaya
+- 👋 Hi, I’m NishaanPadanthaya
 - 👀 I’m interested in Artificial Intelligence,Machine Learning,Data Science,Software development
 - 🌱 I’m currently pursuing Btech in CSE(AIML) at PES University
 - Reach me at **nishaanpj@gmail.com**
